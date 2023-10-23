@@ -11,9 +11,9 @@ ToDoList App made with flutter and a bit of firebase
   
 </p>
 <p float="left">
-  <img src="app_images/app_image3.jpeg" height="400em"/>
-
   <img src="app_images/app_image4.jpeg" height="400em"/>
+
+  <img src="app_images/app_image3.jpeg" height="400em"/>
   
 </p>
 
