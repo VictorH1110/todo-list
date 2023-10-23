@@ -1,22 +1,19 @@
-# flutter-calculator
+# ToDoList - APP
 
-A simple calculator app with flutter 
+ToDoList App made with flutter and a bit of firebase
 
 ### Some Screenshots
 
 <p float="left">
-  <img src="app_images/calculator_img1.jpeg" height="400em"/>
+  <img src="app_images/app_image1.jpeg" height="400em"/>
 
-  <img src="app_images/calculator_img5.jpeg" height="400em"/>
-
-  <img src="app_images/calculator_img4.jpeg" height="400em"/>
-  
-  
+  <img src="app_images/app_image2.jpeg" height="400em"/>
   
 </p>
 <p float="left">
-  <img src="app_images/calculator_img2.jpeg" height="400em"/>
-  <img src="app_images/calculator_img3.jpeg" height="400em"/>
+  <img src="app_images/app_image3.jpeg" height="400em"/>
+
+  <img src="app_images/app_image4.jpeg" height="400em"/>
   
 </p>
 
